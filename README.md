@@ -1,4 +1,4 @@
-# bredarp.serverregels
+# Server Regels BredaRP
 
 [Test](https://google.com)
 
