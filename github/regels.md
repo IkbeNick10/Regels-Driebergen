@@ -1,4 +1,4 @@
-# bredarp.serverregels
+# Server Regels Breda Roleplay
 
 [Test](https://google.com)
 
